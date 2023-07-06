@@ -9,4 +9,3 @@ Ruby on Rails template API for our backend code challenge (live coding)
 - Rubocop
 - RSpec
 - PostgreSQL database configuration
-- 
